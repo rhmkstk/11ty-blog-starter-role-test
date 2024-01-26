@@ -58,5 +58,14 @@
     "system": true,
     "defaultField": false,
     "modelId": "new-content"
+  },
+  {
+    "name": "media-test",
+    "fieldId": "media-test",
+    "modelId": "new-content",
+    "componentId": "media",
+    "options": {},
+    "validations": {},
+    "fieldType": "media"
   }
 ]
