@@ -19,5 +19,12 @@
     "localization": false,
     "type": "JSON",
     "createdBy": "user"
+  },
+  {
+    "name": "new-content",
+    "modelId": "new-content",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user"
   }
 ]
