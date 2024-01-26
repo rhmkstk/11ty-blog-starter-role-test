@@ -58,5 +58,14 @@
     "system": true,
     "defaultField": false,
     "modelId": "hero"
+  },
+  {
+    "name": "tessst",
+    "fieldId": "tessst",
+    "modelId": "hero",
+    "componentId": "media",
+    "options": {},
+    "validations": {},
+    "fieldType": "media"
   }
 ]
